@@ -30,7 +30,7 @@ twitter_username: fabiana
 github_username:  fabifuentes
 
 # Build settings
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
